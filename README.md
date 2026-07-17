@@ -1,7 +1,4 @@
 # Clone-AppleStore
-It is the clone Apple Store website
-##Apple Store Clone
-
 A responsive Apple Store Clone built using React.js, inspired by the official Apple website. This project replicates the modern UI and user experience of Apple's homepage, showcasing products, banners, and interactive components.
 
 
@@ -43,7 +40,7 @@ npm run dev
 https://github.com/user-attachments/assets/7834769b-92a8-45b9-b99a-f5fa23f441d5
 
 
-##Project live
+## Project live
 Click and View the Project : https://clone-apple-store-red.vercel.app/
 
 
